@@ -5,8 +5,7 @@ class Program
     // Верните число на грани, противоположной грани n
     static int OppositeFace(int n)
     {
-        // TODO: напишите решение здесь
-        return 0;
+       return 7 - n;
     }
 
     static void Main()
